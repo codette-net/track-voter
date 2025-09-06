@@ -6,6 +6,8 @@
 <head>
   <meta charset="UTF-8">
   <title>Upload Track</title>
+  <link rel="stylesheet" href="style.css">
+
 </head>
 <body>
   <h1>Upload Track</h1>
@@ -17,4 +19,8 @@
     <button type="submit">Save</button>
   </form>
 </body>
+<footer><a href="index.php">Back to track list</a></footer>
+
+</body>
 </html>
+
